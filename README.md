@@ -16,10 +16,9 @@ under the license GPL-3. The results presented in the manuscript were computed i
 under version 4.0.1 — 'See Things Now'. The following packages were used: Rcpp 
 (version: 1.0.4.6) as well as RcppZiggurat (version: 0.1.5). Moreover, the provided 
 cpp-based-functions 'rep_col', 'rep_row', 'row_min' and 'row_max' originate from the 
-R package Rfast (version: 1.9.9), written by
-
-Manos Papadakis, Michail Tsagris, Marios Dimitriadis, Stefanos Fafalios, Ioannis Tsamardinos,
-Matteo Fasiolo, Giorgos Borboudakis, John Burkardt, Changliang Zou, Kleanthi Lakiotaki 
+R package Rfast (version: 1.9.9), written by Manos Papadakis, Michail Tsagris, 
+Marios Dimitriadis, Stefanos Fafalios, Ioannis Tsamardinos, Matteo Fasiolo, 
+Giorgos Borboudakis, John Burkardt, Changliang Zou, Kleanthi Lakiotaki 
 and Christina Chatzipantsiou. (2020). 
 Rfast: A Collection of Efficient and Extremely Fast R Functions. R package version 1.9.9.
 https://CRAN.R-project.org/package=Rfast
