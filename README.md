@@ -12,7 +12,7 @@ be re-distributed or used for commercial purposes.
 
 Software:
 The code required for the reproduction of the simulations is (mainly) written in the 
-Rlanguage and delivered in form of scripts. The software recommended below is available 
+R-language and delivered in form of scripts. The software recommended below is available 
 under the license GPL-3. The results presented in the manuscript were computed in R 
 under version 4.0.1 — 'See Things Now'. The following packages were used: Rcpp 
 (version: 1.0.4.6) as well as RcppZiggurat (version: 0.1.5). Moreover, the provided 
